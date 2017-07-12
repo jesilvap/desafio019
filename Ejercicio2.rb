@@ -10,7 +10,7 @@ class MiClase
    end
 
    def self.saludar
-     "Hola! Soy la clase #{@name}"
+     "Hola! Soy la clase #{self}"
    end
 end
 
